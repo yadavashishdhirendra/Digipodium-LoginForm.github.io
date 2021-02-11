@@ -60,3 +60,22 @@ input[type="text"]:focus{
     border: 2px solid yellow;
 }
 
+#Border{
+  margin: auto;
+  width: fit-content;
+}
+
+.rounded{
+  border-radius: 1.25rem!important;
+}
+
+.bg-body{
+  background-color: #80d6a6ad !important;
+}
+
+#check{
+  cursor: pointer;
+}
+
+
+
