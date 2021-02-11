@@ -22,15 +22,15 @@ h2 {
 .fab,
 .far {
   font-size: 2rem !important;
-  padding: 15px;
+  padding: 10px;
   cursor: pointer;
-  background-color: rgb(10, 112, 196);
+  background-color: rgb(193 214 153);
   transition: .5s ease-in-out;
   border-radius: 50%;
 }
 
 .fab:hover {
-  background-color: rgb(180, 216, 19);
+  background-color: rgba(19, 170, 216, 0.753);
   transition: .5s ease-in-out;
   border-radius: 50%;
 }
@@ -49,13 +49,14 @@ input[type="text"]:focus{
 }
 
 .btn{
-    border: 2px solid blue;
+    border: 2px solid black;
     transition: .5s ease-in-out;
     font-size: 1.12rem;
 }
 
 .btn:hover{
-    background-color: rgb(79, 158, 86);
+    background-color: rgba(14, 63, 167, 0.363);
     color: white;
+    border: 2px solid yellow;
 }
 
